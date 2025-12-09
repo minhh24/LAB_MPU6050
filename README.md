@@ -4,8 +4,8 @@ Dự án Lab hướng dẫn giao tiếp giữa **Raspberry Pi Pico** và máy t�
 Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghiêng **MPU6050** và gửi lên ROS 2 Topic để vẽ đồ thị thời gian thực.
 
 ##  Tác giả
-* Họ và tên:** Nguyễn Quang Minh
-* Liên hệ:** 0916254336
+ Họ và tên:** Nguyễn Quang Minh
+ Liên hệ:** 0916254336
 
 ---
 
