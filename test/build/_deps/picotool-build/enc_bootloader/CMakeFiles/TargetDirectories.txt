@@ -1,0 +1,2 @@
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/_deps/picotool-build/enc_bootloader/CMakeFiles/edit_cache.dir
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/_deps/picotool-build/enc_bootloader/CMakeFiles/rebuild_cache.dir

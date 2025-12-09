@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/CMakeFiles/picotoolBuild
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/CMakeFiles/picotoolBuild.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/CMakeFiles/picotoolBuild-complete.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/home/pc12/pico-project-generator/project/LAB MPU6050/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule
