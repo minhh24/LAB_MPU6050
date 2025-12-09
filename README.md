@@ -42,7 +42,11 @@ Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghi�
 * **ROS 2 Humble Hawksbill**.
 * **Micro-ROS Agent**.
 
+### Tài liệu đi kèm
+https://docs.google.com/document/d/13lo_ysam_Cds88_TpUu5tqpwS7IlCXqTnb3PvjOYBWo/edit?usp=sharing
+
 ### Cài đặt các gói hiển thị (nếu chưa có)
 ```bash
 sudo apt update
 sudo apt install ros-humble-rqt-plot ros-humble-rqt-common-plugins
+
