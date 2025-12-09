@@ -23,15 +23,15 @@ Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghi�
 | :--- | :--- | :--- |
 | **GP0** (Pin 1) | **RX** | Truyền dữ liệu (TX -> RX) |
 | **GP1** (Pin 2) | **TX** | Nhận dữ liệu (RX <- TX) |
-| **GND** (Pin 3) | **GND** | Mass chung (Bắt buộc) |
+| **GND** (Pin 3) | **GND** | GND |
 
 ### 2. Kết nối I2C (Cảm biến MPU6050)
 | Chân Pico | Chân MPU6050 | Chức năng |
 | :--- | :--- | :--- |
-| **GP4** (Pin 6) | **SDA** | Dữ liệu I2C |
-| **GP5** (Pin 7) | **SCL** | Xung nhịp I2C |
-| **3V3** (Pin 36) | **VCC** | Nguồn 3.3V |
-| **GND** (Pin 38) | **GND** | Mass |
+| **GP4** (Pin 6) | **SDA** |  |
+| **GP5** (Pin 7) | **SCL** |  |
+| **3V3** (Pin 36) | **VCC** |  |
+| **GND** (Pin 38) | **GND** |  |
 
 ---
 
