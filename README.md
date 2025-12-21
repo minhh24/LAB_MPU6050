@@ -1,4 +1,4 @@
-# Micro-ROS MPU6050 Publisher trên Raspberry Pi Pico
+# Micro-ROS MPU6050 Publisher trên Raspberry Pi Pico 
 
 Dự án Lab hướng dẫn giao tiếp giữa **Raspberry Pi Pico** và máy tính (PC) chạy **ROS 2** thông qua giao thức **Micro-ROS**.
 Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghiêng **MPU6050** và gửi lên ROS 2 Topic để vẽ đồ thị thời gian thực.
@@ -45,7 +45,7 @@ Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghi�
 ### Tài liệu đi kèm
 https://docs.google.com/document/d/13lo_ysam_Cds88_TpUu5tqpwS7IlCXqTnb3PvjOYBWo/edit?usp=sharing
 
-### Cài đặt các gói hiển thị (nếu chưa có)
+### Cài đặt các gói hiển thị đồ thị (nếu chưa có)
 ```bash
 sudo apt update
 sudo apt install ros-humble-rqt-plot ros-humble-rqt-common-plugins
