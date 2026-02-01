@@ -1,7 +1,7 @@
 # Micro-ROS MPU6050 Publisher trên Raspberry Pi Pico 
 
-Dự án Lab hướng dẫn giao tiếp giữa **Raspberry Pi Pico** và máy tính (PC) chạy **ROS 2** thông qua giao thức **Micro-ROS**.
-Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghiêng **MPU6050** và gửi lên ROS 2 Topic để vẽ đồ thị thời gian thực.
+Dự án Lab hướng dẫn giao tiếp giữa Raspberry Pi Pico và máy tính (PC) chạy ROS 2 thông qua giao thức Micro-ROS.
+Dự án thực hiện đọc dữ liệu từ cảm biến gia tốc/góc nghiêng MPU6050 và gửi lên ROS 2 Topic để vẽ đồ thị thời gian thực.
 
 ##  Tác giả
 - Họ và tên: Nguyễn Quang Minh
